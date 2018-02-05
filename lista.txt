@@ -13,7 +13,10 @@ numgi # Numerikus matematika # T
       ia8   # Elemenkénti szorzás-osztás: \mcode{$./$} és \mcode{$.*$}  # D
       ia9   # Vektorok létrehozása: \mcode{:} (rang)  # D
       ia10  # Változók                                # D
-      ia11  # Függvények                              # D
+      ia11  # Függvények I                            # D
       ia12  # Összeg 2 újra                           # F
+      ia13  # Hatvány sorozat                         # F
+      ia14  # $(-1)^n$ sorozat                        # F
+      ia15  # Függvények II                           # D
    #
 #
