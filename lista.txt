@@ -1,0 +1,18 @@
+numgi # Numerikus matematika # T
+   matlab   # Matlab alapok # T
+      bev   # Bevezető                                # D
+      ia1   # Számológép                              # D
+      ia1s  # Torony                                  # F 
+      ia2   # Összeg 1                                # F
+      ia3   # Összeg 2                                # F
+      ia4   # az \mcode{ans} változó                  # D
+      ia5   # Hatványok                               # F
+      ia6   # Vektorok létrehozása                    # D
+      ia6s  # Vektorok összeadása-kivonása            # D
+      ia7   # Műveletek: vektor és skalár             # D
+      ia8   # Vektor-vektor elemenkénti szorzás-osztás: \mcode{$.$}            # D
+      ia9   # Vektorok létrehozása: \mcode{:} / rang  # D
+      ia10  # Változók                                # D
+      ia11  # Függvények                              # D
+   #
+#
