@@ -10,9 +10,10 @@ numgi # Numerikus matematika # T
       ia6   # Vektorok létrehozása                    # D
       ia6s  # Vektorok összeadása-kivonása            # D
       ia7   # Műveletek: vektor és skalár             # D
-      ia8   # Vektor-vektor elemenkénti szorzás-osztás: \mcode{$.$}            # D
-      ia9   # Vektorok létrehozása: \mcode{:} / rang  # D
+      ia8   # Elemenkénti szorzás-osztás: \mcode{$./$} és \mcode{$.*$}  # D
+      ia9   # Vektorok létrehozása: \mcode{:} (rang)  # D
       ia10  # Változók                                # D
       ia11  # Függvények                              # D
+      ia12  # Összeg 2 újra                           # F
    #
 #

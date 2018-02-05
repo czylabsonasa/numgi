@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.14)  5 FEB 2018 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.14)  5 FEB 2018 16:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1529,7 +1529,7 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 31.
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) [2]
 (./DB/matlab/bevDesc.tex
-<DB/fig/bev1.png, id=88, 1284.8pt x 1027.84pt>
+<DB/fig/bev1.png, id=91, 1284.8pt x 1027.84pt>
 File: DB/fig/bev1.png Graphic file (type png)
 <use DB/fig/bev1.png>
 Package pdftex.def Info: DB/fig/bev1.png  used on input line 5. on input line 5
@@ -1559,7 +1559,7 @@ LaTeX Font Info:    Font shape `TS1/fvm/m/n' will be
 (./DB/matlab/ia2Fa.tex) [8] (./DB/matlab/ia2Mo.tex (./DB/M/ia2/mo.m)) [9]
 (./DB/matlab/ia3Fa.tex) [10] (./DB/matlab/ia3Mo.tex) [11]
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 131.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 133.
 
 (./DB/matlab/ia4Desc.tex (./DB/M/ia4/ans.m)) [12] (./DB/matlab/ia5Fa.tex)
 [13] (./DB/matlab/ia5Mo.tex (./DB/M/ia5/hatvany.m)) [14]
@@ -1568,21 +1568,22 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <24.88> not available
 [17] (./DB/matlab/ia8Desc.tex (./DB/M/ia8/vecdiv.m)) [18]
 (./DB/matlab/ia9Desc.tex (./DB/M/ia9/colon.m)) [19] (./DB/matlab/ia10Desc.tex
 (./DB/M/ia10/var.m)) [20] (./DB/matlab/ia11Desc.tex (./DB/M/ia11/help.m)
-(./DB/M/ia11/math.m) [21] (./DB/M/ia11/vekman.m)) [22]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 225.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
+(./DB/M/ia11/math.m) [21] (./DB/M/ia11/vekman.m)) [22] (./DB/matlab/ia12Fa.tex)
+[23] (./DB/matlab/ia12Mo.tex (./DB/M/ia12/mo.m)) [24]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 247.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 247.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
  ) 
 Here is how much of TeX's memory you used:
- 37493 strings out of 494275
- 719975 string characters out of 6162937
- 813742 words of memory out of 5000000
- 40083 multiletter control sequences out of 15000+600000
+ 37518 strings out of 494275
+ 720332 string characters out of 6162937
+ 813867 words of memory out of 5000000
+ 40091 multiletter control sequences out of 15000+600000
  541403 words of font info for 57 fonts, out of 8000000 for 9000
  395 hyphenation exceptions out of 8191
  66i,15n,101p,10511b,2049s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1599,9 +1600,9 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fv
 mr8a.pfb>
-Output written on main.pdf (22 pages, 278537 bytes).
+Output written on main.pdf (24 pages, 285877 bytes).
 PDF statistics:
- 573 PDF objects out of 1000 (max. 8388607)
- 191 named destinations out of 1000 (max. 500000)
+ 598 PDF objects out of 1000 (max. 8388607)
+ 199 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
