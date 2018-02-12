@@ -1,4 +1,10 @@
-numgi # Numerikus matematika # T
+numgi # Numerikus matematika GI # T
+   float    # Lebegőpontos számok # T
+      bev   # Bevezető # D
+      f1    # számuk    # F
+      f2    # $M_{\infty}$ # F
+      f3    # $\varepsilon_0$ # F
+   #
    matlab   # Matlab alapok # T
       bev   # Bevezető                                # D
       ia1   # Számológép                              # D

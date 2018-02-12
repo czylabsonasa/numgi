@@ -1,21 +1,96 @@
 
 %usepackage es egyebek
-\input{common/globdef.tex}
+\input{common/alldef.tex}
 
-%zarojel, FA...
-\input{common/matdef.tex}
-
-% rövidítések
-\input{common/szavakdef.tex}
-
-% tcolorbox-al kapcsolatos
-\input{common/tcboxdef.tex}
-
-\begin{document}\begin{spacing}{1.2}
+\begin{document}\begin{spacing}{1.4}
 \pagecolor{BGSZ}
 
-\section*{Numerikus matematika} \label{DB}
+\section*{Numerikus matematika GI} \label{DB}
+\nameref{DBfloat}
+\newline
 \nameref{DBmatlab}
+\newpage
+\section*{Lebegőpontos számok} \label{DBfloat}
+\nameref{DBfloatbev}
+\newline
+\nameref{DBfloatf1}
+\newline
+\nameref{DBfloatf2}
+\newline
+\nameref{DBfloatf3}
+\vspace{0.5cm}
+\LINK{
+\hfill\nameref{DB}
+}
+\newpage
+\section*{\mtit{Desc}Bevezető} \label{DBfloatbev}
+\Desc{
+\input{DB/float/bevDesc}
+}
+\vspace{0.5cm}
+\LINK{
+\hfill\nameref{DBfloat}
+}
+\newpage
+\section*{\mtit{Fa}számuk} \label{DBfloatf1}
+\Fa{
+\input{DB/float/f1Fa}
+}
+\vspace{0.5cm}
+\LINK{
+\nameref{DBfloatf1Mo}
+\hfill\nameref{DBfloat}
+}
+\newpage
+\section*{\mtit{Mo}számuk} \label{DBfloatf1Mo}
+\Mo{
+\input{DB/float/f1Mo}
+}
+\vspace{0.5cm}
+\LINK{
+\nameref{DBfloatf1}
+\hfill\nameref{DBfloat}
+}
+\newpage
+\section*{\mtit{Fa}$M_{\infty}$} \label{DBfloatf2}
+\Fa{
+\input{DB/float/f2Fa}
+}
+\vspace{0.5cm}
+\LINK{
+\nameref{DBfloatf2Mo}
+\hfill\nameref{DBfloat}
+}
+\newpage
+\section*{\mtit{Mo}$M_{\infty}$} \label{DBfloatf2Mo}
+\Mo{
+\input{DB/float/f2Mo}
+}
+\vspace{0.5cm}
+\LINK{
+\nameref{DBfloatf2}
+\hfill\nameref{DBfloat}
+}
+\newpage
+\section*{\mtit{Fa}$\varepsilon_0$} \label{DBfloatf3}
+\Fa{
+\input{DB/float/f3Fa}
+}
+\vspace{0.5cm}
+\LINK{
+\nameref{DBfloatf3Mo}
+\hfill\nameref{DBfloat}
+}
+\newpage
+\section*{\mtit{Mo}$\varepsilon_0$} \label{DBfloatf3Mo}
+\Mo{
+\input{DB/float/f3Mo}
+}
+\vspace{0.5cm}
+\LINK{
+\nameref{DBfloatf3}
+\hfill\nameref{DBfloat}
+}
 \newpage
 \section*{Matlab alapok} \label{DBmatlab}
 \nameref{DBmatlabbev}
