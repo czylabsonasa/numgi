@@ -1,0 +1,17 @@
+A norma egy vektortér elemeihez rendelt mennyiség, mely: 
+\centerline{\mcode{$||0||=0$,\text{\ egyébként: \ }$||x||>0$}}
+\centerline{\mcode{$||c x||=|c| ||x||$}}
+\centerline{\mcode{teljesül a $\triangle$-\elen{}}}
+
+Legismertebb vektor-normák:
+\Mat{
+   ||x||_p = \gzjel{|x_1|^p+\ldots|x_n|^p}^{\frac{1}{p}}\kh p\ge 1 \nus
+   ||x||_{\infty}=\max_{k}(|x_k|)
+}
+Ez $p=2$ esetén a szokásos euklidészi-norma, $p=1$-re az ún. Manhattan-norma. 
+A harmadik neve $\max$-norma.\newline
+Mátrixokra a legelterjedtebb az indukált-norma használata. Kiindulva egy $||.||_v$ vektornormából, a 
+\Mat{
+   ||A||_v = \sup_{||x||=1} ||Ax||_v =\max_{||x||=1} ||Ax||_v
+}
+mennyiségről belátható, hogy norma az $n\times n$-es mátrixok vektorterén. ($n$ rögzített)

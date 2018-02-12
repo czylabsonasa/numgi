@@ -4,7 +4,11 @@ numgi # Numerikus matematika GI # T
       f1    # számuk    # F
       f2    # $M_{\infty}$ # F
       f3    # $\varepsilon_0$ # F
+      f4    # az $1$ társai # F
    #
+   norma    # Vektor, mátrix normák # T
+      bev   # Bevezető # D
+   #   
    matlab   # Matlab alapok # T
       bev   # Bevezető                                # D
       ia1   # Számológép                              # D
@@ -25,4 +29,5 @@ numgi # Numerikus matematika GI # T
       ia14  # $(-1)^n$ sorozat                        # F
       ia15  # Függvények II                           # D
    #
+   link     # Linkek # D
 #
