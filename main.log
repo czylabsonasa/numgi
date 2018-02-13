@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.14)  12 FEB 2018 23:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.14)  13 FEB 2018 01:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1588,7 +1588,12 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <24.88> not available
 [38] (./DB/matlab/ia13Mo.tex (./DB/M/ia13/mo.m)) [39] (./DB/matlab/ia14Fa.tex)
 [40] (./DB/matlab/ia14Mo.tex (./DB/M/ia14/mo.m) (./DB/M/ia14/morm.m)) [41]
 (./DB/matlab/ia15Desc.tex (./DB/M/ia15/round.m) (./DB/M/ia15/ones.m)) [42]
-(./DB/linkDesc.tex) [43]
+(./DB/linkDesc.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--420
+
+ []
+
+[43]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 428.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 428.
  (./main.aux)
@@ -1601,7 +1606,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 428.
 Here is how much of TeX's memory you used:
  37751 strings out of 494275
  723385 string characters out of 6162937
- 814821 words of memory out of 5000000
+ 814820 words of memory out of 5000000
  40183 multiletter control sequences out of 15000+600000
  542930 words of font info for 59 fonts, out of 8000000 for 9000
  395 hyphenation exceptions out of 8191
@@ -1620,9 +1625,9 @@ public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.p
 fb>
-Output written on main.pdf (43 pages, 360012 bytes).
+Output written on main.pdf (43 pages, 360440 bytes).
 PDF statistics:
- 818 PDF objects out of 1000 (max. 8388607)
+ 820 PDF objects out of 1000 (max. 8388607)
  267 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
