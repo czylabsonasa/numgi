@@ -1,0 +1,5 @@
+arc
+__pycache__
+*.log
+*.aux
+*.out
